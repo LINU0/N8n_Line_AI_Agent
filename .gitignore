@@ -1,0 +1,11 @@
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Docker secrets override
+docker-compose.override.yml
+*.pdf
+*.pptx
